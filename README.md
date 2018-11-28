@@ -1,7 +1,9 @@
 # demo
 a demo repository just for test.
 
-feature1
+a new feature1
+another new feature1
+
 
 new feature1
 
